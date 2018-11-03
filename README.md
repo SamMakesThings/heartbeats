@@ -1,4 +1,4 @@
-![heart sync logo](https://raw.githubusercontent.com/StartupSam/heartbeats/master/HeartSync_logo.png)
+![heart sync logo](https://raw.githubusercontent.com/StartupSam/heartbeats/master/HeartSyncLogo.png)
 # heartsync
 A hardware &amp; software science experiment to help strangers bring their heartbeats into sync. A project from Science Hack Day Berlin 2018.
 
