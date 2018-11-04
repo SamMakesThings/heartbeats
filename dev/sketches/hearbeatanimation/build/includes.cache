@@ -1,0 +1,27 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/variants/standard"
+  },
+  {
+    "Sourcefile": "/Users/vinni/Desktop/GIT/shdb18/heart/build/sketch/heart.ino.cpp",
+    "Include": "LedControl.h",
+    "Includepath": "/Users/vinni/Documents/Arduino/libraries/LedControl/src"
+  },
+  {
+    "Sourcefile": "/Users/vinni/Desktop/GIT/shdb18/heart/build/sketch/heart.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/vinni/Documents/Arduino/libraries/LedControl/src/LedControl.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]
