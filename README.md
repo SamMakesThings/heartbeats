@@ -14,3 +14,5 @@ Set up a RasPi (actually not, it's not pairing with the arduino for some reason)
 2. Set up the included Arduino code on your Arduino, along with a pulse sensor and bluetooth module
 3. Pair your Arduino with your laptop via bluetooth
 4. Run the Processing Sketch!
+
+(updated schematics plus build pics coming soon)
